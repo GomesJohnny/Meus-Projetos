@@ -1,0 +1,35 @@
+
+.heading:hover{
+background: gray
+}
+
+.heading:hover{
+    transition: all 1s ease-in-out;
+}
+
+a{
+    color:rosybrown;
+}
+
+a:link{
+    color:salmon;
+}
+
+a:active{
+    background:burlywood;
+    color:black;
+}
+
+input:focus{
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    margin: 15px;
+    padding: 15px;
+    height: 15px;
+
+}input:checked + p{
+    background: green;
+}
+
+p:not(.meio){
+    color: blue;
+}
