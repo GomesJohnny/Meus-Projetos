@@ -1,2 +1,2 @@
 # Meus Projetos
- Projetos: Html, CSS e JS
+ Adicionar meu projetos: Html, CSS e JS, que estou aprendendo em curso online.
